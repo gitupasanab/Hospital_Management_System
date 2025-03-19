@@ -1,0 +1,1 @@
+A Hospital Management System (HMS) using SQL focuses on managing hospital data efficiently through a structured database. This project involves designing a relational database to store and retrieve hospital-related information using SQL queries.
